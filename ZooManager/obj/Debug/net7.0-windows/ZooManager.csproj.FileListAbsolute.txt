@@ -1,0 +1,74 @@
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.exe
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.deps.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.runtimeconfig.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.pdb
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\QRCoder.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.csproj.AssemblyReference.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalEditor.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalsView.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeeEditor.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeesView.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\Main.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\TicketGeneratorView.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\App.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager_MarkupCompile.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager_MarkupCompile.lref
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalEditor.baml
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalsView.baml
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeeEditor.baml
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeesView.baml
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\Main.baml
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\TicketGeneratorView.baml
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.g.resources
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.AssemblyInfoInputs.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.AssemblyInfo.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.csproj.CoreCompileInputs.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.csproj.CopyComplete
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\refint\ZooManager.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.pdb
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.genruntimeconfig.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\obj\Debug\net7.0-windows\ref\ZooManager.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.Data.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.Data.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.exe
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.deps.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.runtimeconfig.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\QRCoder.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.Data.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager\bin\Debug\net7.0-windows\ZooManager.Data.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalEditor.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalsView.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeeEditor.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeesView.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\Main.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\TicketGeneratorView.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager_MarkupCompile.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager_MarkupCompile.lref
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalEditor.baml
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\AnimalsView.baml
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeeEditor.baml
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\EmployeesView.baml
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\Main.baml
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\Views\TicketGeneratorView.baml
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.g.resources
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.AssemblyInfo.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.csproj.CopyComplete
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\refint\ZooManager.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ZooManager.genruntimeconfig.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager\obj\Debug\net7.0-windows\ref\ZooManager.dll

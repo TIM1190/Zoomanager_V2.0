@@ -1,0 +1,36 @@
+﻿<Window x:Class="ZooManager.Views.EmployeeEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZooManager.Views"
+        mc:Ignorable="d"
+        Title="EmployeeEditor"
+        MinHeight="350"
+        MinWidth="300"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="ФИО:"/>
+        <TextBox Grid.Row="1" Text="{Binding Employee.Name}" />
+        <Label Grid.Row="2" Content="Должность:"/>
+        <TextBox Grid.Row="3" Text="{Binding Employee.Position}" />
+        <Label Grid.Row="4" Content="Контактная информация:"/>
+        <TextBox Grid.Row="5" Text="{Binding Employee.ContactInfo}" />
+        <StackPanel Grid.Row="13" Margin="0, 10, 0, 0" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Width="80"  Margin="0, 0, 0, 0" IsDefault="True" Click="Button_Click" >ОК</Button>
+            <Button Width="80" Margin="10, 0, 0, 0" IsCancel="True">Отмена</Button>
+        </StackPanel>
+    </Grid>
+</Window>

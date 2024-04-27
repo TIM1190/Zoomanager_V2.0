@@ -1,0 +1,152 @@
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\appsettings.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.exe
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.deps.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.runtimeconfig.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.pdb
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Humanizer.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.csproj.AssemblyReference.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.AssemblyInfoInputs.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.AssemblyInfo.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.csproj.CoreCompileInputs.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.ZooManager.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ZooManager.Api.props
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ZooManager.Api.props
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ZooManager.Api.props
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\scopedcss\bundle\ZooManager.Api.styles.css
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.csproj.CopyComplete
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\refint\ZooManager.Api.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.pdb
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.genruntimeconfig.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Api\obj\Debug\net7.0\ref\ZooManager.Api.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.exe
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.deps.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.runtimeconfig.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\ZooManager.Api.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.AssemblyInfo.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.ZooManager.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ZooManager.Api.props
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ZooManager.Api.props
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ZooManager.Api.props
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\scopedcss\bundle\ZooManager.Api.styles.css
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.csproj.CopyComplete
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\refint\ZooManager.Api.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ZooManager.Api.genruntimeconfig.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Api\obj\Debug\net7.0\ref\ZooManager.Api.dll

@@ -1,0 +1,24 @@
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\bin\Debug\net7.0\ZooManager.Data.deps.json
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\bin\Debug\net7.0\ZooManager.Data.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\bin\Debug\net7.0\ZooManager.Data.pdb
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.AssemblyInfoInputs.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.AssemblyInfo.cs
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.csproj.CoreCompileInputs.cache
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\refint\ZooManager.Data.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.pdb
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ref\ZooManager.Data.dll
+C:\sources\сonsultations\clients\@tg119000 (Тимофей)\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\bin\Debug\net7.0\ZooManager.Data.deps.json
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\bin\Debug\net7.0\ZooManager.Data.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\bin\Debug\net7.0\ZooManager.Data.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.AssemblyInfo.cs
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\refint\ZooManager.Data.dll
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ZooManager.Data.pdb
+C:\Users\Tim\Desktop\ZooManager\ZooManager.Data\obj\Debug\net7.0\ref\ZooManager.Data.dll

@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="ZooManager.Views.EmployeesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ZooManager.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             d:DataContext="{d:DesignInstance Type=local:EmployeesView}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10" >
+            <Button x:Name="UpdateEmployees" Padding="5" Margin="0,0,10,0" Content="Обновить" Click="UpdateEmployees_Click"  />
+            <Button x:Name="AddEmployee" Padding="5" Margin="0,0,10,0" Content="Добавить" ButtonBase.Click="AddEmployee_Click"   />
+            <Button x:Name="EditEmployee" Padding="5" Margin="0,0,10,0" Content="Редактировать" ButtonBase.Click="EditEmployee_Click"   />
+            <Button x:Name="DeleteEmployee" Padding="5" Content="Удалить" ButtonBase.Click="DeleteEmployee_Click"  />
+        </StackPanel>
+
+        <ListView
+            Grid.Row="1"
+            Name="employeesListView"
+            ItemsSource="{Binding Employees}"
+            SelectedItem="{Binding SelectedEmployee}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ФИО" DisplayMemberBinding="{Binding Name}" Width="220"/>
+                    <GridViewColumn Header="Должность" DisplayMemberBinding="{Binding Position}" Width="120"/>
+                    <GridViewColumn Header="Контактная информация" DisplayMemberBinding="{Binding ContactInfo}" Width="220"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>

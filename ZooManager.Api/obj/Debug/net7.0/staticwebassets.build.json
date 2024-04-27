@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GWQbnUM7KqlzHSE6vpN4YBEi54L7c7ZWPJU+Arb4geQ=",
+  "Source": "ZooManager.Api",
+  "BasePath": "_content/ZooManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
